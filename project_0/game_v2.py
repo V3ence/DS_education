@@ -5,10 +5,10 @@ def mid_predict(number):
     """Угадываем число по алгоритму "среднего"
 
     Args:
-        number (int, optional): Загаданное целое число. 
+        number (int, optional): Загаданное целое число
 
     Returns:
-        int: Число попыток.
+        int: Число попыток
     """
 
     count = 0
