@@ -1,1 +1,1 @@
-Проекты,созданныево время учебы на SkillFactory по курсу Data Science
+Проекты,созданные во время учебы на SkillFactory по курсу Data Science
