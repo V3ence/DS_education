@@ -20,12 +20,16 @@ def mid_predict(number):
     while True:
         count += 1
         predict_number = round((min_number + max_number)/2) # вычисляем загаданное число методом "среднего"
+        
         if number == predict_number:
             break # выход из цикла, если угадали
+        
         elif number > predict_number:
             min_number = predict_number # уменьшаем интервал угадывания
+            
         else:
             max_number = predict_number # уменьшаем интервал угадывания 
+            
     return(count)
 
 
