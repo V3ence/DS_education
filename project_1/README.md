@@ -69,3 +69,8 @@
 [Ноутбук с выполненными заданиями и выводами](https://github.com/V3ence/DS_education/blob/main/project_1/Project-1.%20%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#Оглавление)
+
+### Выводы:  
+Гениальный проект!!!
+
+:arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#Оглавление)
