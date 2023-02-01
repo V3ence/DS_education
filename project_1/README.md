@@ -3,10 +3,10 @@
 ## Оглавление  
 [1. Описание проекта](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/V3ence/DS_education/blob/main/project_0/README.md#Какой-кейс-решаем? )  
-[3. Краткая информация о данных](https://github.com/V3ence/DS_education/blob/main/project_0/README.md#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
-[4. Этапы работы над проектом](https://github.com/V3ence/DS_education/blob/main/project_0/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/V3ence/DS_education/blob/main/project_0/README.md#Результаты)    
-[6. Выводы](https://github.com/V3ence/DS_education/blob/main/project_0/README.md#Выводы)   
+[3. Краткая информация о данных](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
+[4. Этапы работы над проектом](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#Результаты)    
+[6. Выводы](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#Выводы)   
 
 
 ### Описание проекта.    
