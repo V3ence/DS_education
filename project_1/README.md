@@ -2,7 +2,7 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/V3ence/DS_education/blob/main/project_0/README.md#Какой-кейс-решаем? )  
+[2. Какой кейс решаем?](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#Какой-кейс-решаем? )  
 [3. Краткая информация о данных](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
 [4. Этапы работы над проектом](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#Результаты)    
@@ -19,7 +19,7 @@
 
 **Условия задания:**  
 - Внимательно изучить детали задачи.
-- Скачать уже знакомый [датасет](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing) и [ноутбук-шаблон](https://lms.skillfactory.ru/assets/courseware/v1/1577d067038f8073197105c174f05822/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb).
+- Скачать [датасет](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing) и [ноутбук-шаблон](https://lms.skillfactory.ru/assets/courseware/v1/1577d067038f8073197105c174f05822/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb).
 - Обязательно ознакомиться с дополнительным теоретическим материалом, который даётся перед заданием.
 - Воспользоваться советами и подсказками при выполнении проекта.
 - Ответить на все контрольные вопросы.
