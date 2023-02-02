@@ -70,7 +70,7 @@
 
 :arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#Оглавление)
 
-### Выводы:  
-Гениальный проект!!!
+### Выводы: 
+[Ссылка на полученный обработанный датасет](https://drive.google.com/file/d/10tIr0mMIiTocqSgI5a-vsRAjY51TpEYj/view?usp=share_link)
 
 :arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_1/README.md#Оглавление)
