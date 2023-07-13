@@ -6,4 +6,4 @@
 * [Проект 0.5. Визуализация](https://github.com/V3ence/DS_education/tree/main/project_0.5)
 * [Проект 1. Анализ резюме из HeadHunter](https://github.com/V3ence/DS_education/tree/main/project_1)
 * [Проект 2. Анализ вакансий из HeadHunter](https://github.com/V3ence/DS_education/tree/main/project_2)
-* [Проект 3. Анализ вакансий из HeadHunter](https://github.com/V3ence/DS_education/tree/main/project_3)
+* [Проект 3. Прогнозирование рейтинга отеля на Booking](https://github.com/V3ence/DS_education/tree/main/project_3)
