@@ -66,8 +66,8 @@ Cоздаем свой первый кейс по машинному обуче�
 :arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#Оглавление)
 
 ### Результаты:  
-[Ноутбук](https://github.com/V3ence/DS_education/blob/main/project_3/v3ence-python-sf-dst-booking-reviews.ipynb)
-[Ссылка на проект на Kaggle](https://www.kaggle.com/code/v3ence/v3ence-python-sf-dst-booking-reviews)
+- [Ноутбук](https://github.com/V3ence/DS_education/blob/main/project_3/v3ence-python-sf-dst-booking-reviews.ipynb)
+- [Ссылка на проект на Kaggle](https://www.kaggle.com/code/v3ence/v3ence-python-sf-dst-booking-reviews)
 
 
 :arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#Оглавление)
