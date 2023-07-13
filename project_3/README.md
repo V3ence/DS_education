@@ -1,18 +1,18 @@
 # Проект 3. Прогнозирование рейтинга отеля на Booking
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/V3ence/DS_education/blob/main/project_2/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/V3ence/DS_education/blob/main/project_2/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)  
-[3. Краткая информация о данных](https://github.com/V3ence/DS_education/blob/main/project_2/README.md#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
-[4. Этапы работы над проектом](https://github.com/V3ence/DS_education/blob/main/project_2/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/V3ence/DS_education/blob/main/project_2/README.md#Результаты)    
-[6. Выводы](https://github.com/V3ence/DS_education/blob/main/project_2/README.md#Выводы)   
+[1. Описание проекта](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)  
+[3. Краткая информация о данных](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
+[4. Этапы работы над проектом](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#Результаты)    
+[6. Выводы](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#Выводы)   
 
 
 ### Описание проекта.    
 Представьте, что вы работаете датасаентистом в компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов нахождения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель играет нечестно, и его стоит проверить.
 
-:arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#Оглавление)
 
 ### Какой кейс решаем?    
 Cоздать модель, которая предсказывает рейтинг отеля.
@@ -51,27 +51,27 @@ Cоздать модель, которая предсказывает рейти
 **Что практикуем**     
 Cоздаем свой первый кейс по машинному обучению: самостоятельно очищаем довольно сильно загрязнённый датасет, извлекаем из него несколько новых признаков и подготавливаем данные для обучения модели. Также принимаем участие в соревновании по машинному обучению и вступаем в самое большое в мире сообщество действующих дата-сайентистов.
 
-:arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#Оглавление)
 
 ### Краткая информация о данных
 База данных, выгруженная с сайта Booking.com
 
-:arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#Оглавление)
 
 ### Этапы работы над проектом
 1. Исследование данных
 2. Подготовка данных
 3. Обучение модели и предсказание
 
-:arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#Оглавление)
 
 ### Результаты:  
 [Ноутбук](https://github.com/V3ence/DS_education/blob/main/project_3/v3ence-python-sf-dst-booking-reviews.ipynb))
 
 
-:arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#Оглавление)
 
 ### Выводы: 
 МАРЕ: 11.2017 
 
-:arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/V3ence/DS_education/blob/main/project_3/README.md#Оглавление)
